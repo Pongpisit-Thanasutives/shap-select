@@ -12,6 +12,7 @@ Earlier packages using Shapley values for feature selection exist, the advantage
 * A single intuitive hyperparameter for feature selection: statistical significance
 * Bonferroni correction for multiclass classification
 * Address collinearity of (Shapley value) features by repeated (linear/logistic) regression
+* This fork adds support for linear models.
 
 ## Usage
 ```python
