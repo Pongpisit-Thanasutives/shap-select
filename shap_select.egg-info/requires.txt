@@ -1,0 +1,10 @@
+pandas
+scipy>=1.8.0
+shap
+statsmodels
+numpy
+
+[test]
+flake8
+pytest
+pytest-cov
